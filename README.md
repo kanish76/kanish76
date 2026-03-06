@@ -1,4 +1,3 @@
-<!-- header -->
 <br/>
 
 ```
@@ -10,17 +9,39 @@ iot · edge systems · data · ml
 
 ---
 
-### work
+### featured work
 
-**human entropy mapping system**
-&nbsp;&nbsp;`bolt iot` &nbsp;`python` &nbsp;`edge computing`
-> edge-deployed sensor network with real-time anomaly detection across distributed nodes. built centralized time-series dashboard for monitoring and alert validation.
+**human entropy mapping system** &nbsp;·&nbsp; `python` `bolt iot` `edge`
+> live edge iot system — distributed sensor nodes, real-time anomaly detection, centralized time-series dashboard
+
+**distributed road condition monitor** &nbsp;·&nbsp; `python` `ml` `iot`
+> multi-agent simulation for pothole detection across sensor networks — 92%+ accuracy
 
 <br/>
 
-**distributed road condition monitor**
-&nbsp;&nbsp;`multi-agent simulation` &nbsp;`iot` &nbsp;`ml`
-> autonomous agent network for pothole detection — 92%+ accuracy. distributed hazard aggregation framework designed for real urban deployment.
+---
+
+### projects & experiments
+
+| repo | what it is |
+|------|-----------|
+| [MLproject_tensor](https://github.com/kanish76/MLproject_tensor) | learning tensorflow — experiments & trials |
+| [MLproject-Sklearn](https://github.com/kanish76/MLproject-Sklearn) | learning scikit-learn — models & notebooks |
+| [antiOCR](https://github.com/kanish76/antiOCR) | attempted alternative to ocr for reading handwriting — didn't ship, learned a lot |
+
+<br/>
+
+---
+
+### things i also build
+
+| project | what it is |
+|---------|-----------|
+| [rockpaperseizure](https://github.com/kanish76/rockpaperseizure) | marketing agency site built with a friend |
+| [sirka](https://github.com/kanish76/sirka) | my store |
+| [flour child](https://github.com/kanish76/flour-child-website) | bakery site — because i also bake |
+| [subtleshame](https://github.com/kanish76/subtleshame) | portfolio — recipes, ui/ux, art |
+| [kanish76.github.io](https://kanish76.github.io) | personal site |
 
 <br/>
 
