@@ -60,6 +60,6 @@ linux · git · firebase · rest apis
 
 ### reach
 
-[kanish76k@live.com](mailto:kanish76k@live.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[kanish76k@live.com](mailto:kanish76k@live.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/kanish76)
 
 <br/>
